@@ -1,6 +1,6 @@
 # repo
 # conclusion
-![file_not_found](20230204_232314.jpg)
+![offline_wallpaper](20230204_232314.jpg)
 ![]()
 [text if image wouldn't uploaded] (file_name)
 
@@ -12,4 +12,4 @@ git branch -d file_name ---- delete the file that was merge to master
 git log --graph         ---- visualise a list of the commits
 git clone [HTTP CLONE]  ---- remotely acces to git
 git branch -M main      ----  theese two for adding repo tog git hub
-git push -u origin      ---- 
+git push -u origin      ---- theese two
