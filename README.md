@@ -13,3 +13,4 @@ git log --graph         ---- visualise a list of the commits
 git clone [HTTP CLONE]  ---- remotely acces to git
 git branch -M main      ----  theese two for adding repo tog git hub
 git push -u origin      ---- theese two
+git pull                ---- theese three 
